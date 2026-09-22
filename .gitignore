@@ -1,0 +1,21 @@
+# Credentials and local configuration
+*.env
+.env*
+!.env.example
+*.pem
+*.key
+.netrc
+credentials*
+secrets*
+# Generated experiments and downloaded weights
+models/
+results/
+wandb/
+.cache/
+.ipynb_checkpoints/
+__pycache__/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.zip
