@@ -1,0 +1,51 @@
+{
+  "notebooks": [
+    {
+      "file": "Closed_Loop_Diffusion_Experiment.ipynb",
+      "cells": 27,
+      "bytes": 46890,
+      "literal_secrets_removed": 0
+    },
+    {
+      "file": "Hands_Four_Methods_Computation_Dry_Run.ipynb",
+      "cells": 18,
+      "bytes": 41956,
+      "literal_secrets_removed": 0
+    },
+    {
+      "file": "Hands_Jev_Feedback_Repairs_Pilot.ipynb",
+      "cells": 12,
+      "bytes": 56314,
+      "literal_secrets_removed": 0
+    },
+    {
+      "file": "Hands_Jev_World_Knowledge_Feedback.ipynb",
+      "cells": 17,
+      "bytes": 54711,
+      "literal_secrets_removed": 0
+    },
+    {
+      "file": "Hands_Step_Vector_Attribution_Across_Seeds.ipynb",
+      "cells": 14,
+      "bytes": 44452,
+      "literal_secrets_removed": 0
+    },
+    {
+      "file": "Jev_Attention_Downsampling_Hands.ipynb",
+      "cells": 83,
+      "bytes": 275594,
+      "literal_secrets_removed": 0
+    },
+    {
+      "file": "Jev_Checkpoint_Decision_Benchmark.ipynb",
+      "cells": 15,
+      "bytes": 54156,
+      "literal_secrets_removed": 0
+    }
+  ],
+  "outputs_removed": true,
+  "cell_metadata_removed": true,
+  "known_secret_matches_remaining": 0,
+  "credential_pattern_matches": 0,
+  "scope": "Notebook source only; no environment files, weights, caches or raw run logs included."
+}
